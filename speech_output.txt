@@ -1,0 +1,9 @@
+output:
+
+🎤 Please speak something...
+✅ Audio captured
+.
+.
+.
+.
+📝 You said: Avengers Assemble

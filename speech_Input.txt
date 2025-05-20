@@ -1,0 +1,2 @@
+Input:
+Live speech recorded through a microphone
